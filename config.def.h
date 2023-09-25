@@ -1,6 +1,6 @@
 static const char *background_color = "#000000";
-static const char *border_color = "#000000";
-static const char *font_color = "#eeeeee";
+static const char *border_color = "#1d2021";
+static const char *font_color = "#fbf1c7";
 static const char *font_pattern = "JetBrainsMono NerdFont:size=11";
 static const unsigned line_spacing = 5;
 static const unsigned int padding = 20;
